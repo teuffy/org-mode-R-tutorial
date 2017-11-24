@@ -1,0 +1,5 @@
+** TODO Mutation du site
+   SCHEDULED: <2017-12-25 Mon>
+*** Home Page  [[file:///Users/co/Development/lrem/lrem_site_dev/documents/suisse/HP_new_website_draft_AAS.pdf][here]]
+*** Organisation
+    -  [[/Users/co/Development/lrem/lrem_site_dev/documents/suisse/lrem-suisse-rentrc3a9e-septembre-2017_-v-web.pdf][meeting sept 2017]]
